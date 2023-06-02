@@ -18,5 +18,9 @@
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "engines": {
+    "node": ">=14.17.0"
   }
+
 }
